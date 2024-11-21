@@ -1,0 +1,10 @@
+li{
+    list-style-type: none;
+    width: 50%;
+    border:1px solid white;
+    margin: 5px;
+}
+
+.delete-button{
+    float: right;
+}
